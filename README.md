@@ -1,6 +1,6 @@
 # EjerciciosHTML5-Practica
 Primera clase del primer módulo de HTML5 - Ejercicios de clase.
-Contenido de clase: Presentación del docente, presentación de estudiantes, primeros ejercicios de acercamiento a HTML5.
+Contenido de clase: Presentación del docente, presentación de estudiantes, primeros ejercicios de acercamiento a HTML5: Carpeta INTRODUCCIÖN A HTML:
 # Desarrollo Frontend #
  Internet.
  Web.
